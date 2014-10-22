@@ -24,3 +24,4 @@ $article = [
 echo $twig->render('article.html.twig', [
     'article' => $article,
 ]);
+
